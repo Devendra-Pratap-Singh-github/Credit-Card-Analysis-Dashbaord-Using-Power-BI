@@ -1,2 +1,2 @@
-# Credit-Card-Analysis-Dashbaord-Using-Power-BI
+# Credit-Card-Analysis-Dashboard-Using-Power-BI
 Power BI Dashboard
